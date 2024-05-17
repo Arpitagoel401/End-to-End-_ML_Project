@@ -68,3 +68,4 @@ Improve model accuracy with more advanced techniques
 Integrate additional features for better prediction
 Enhance the web interface for a better user experience
 Deploy the web application to a cloud platform for broader accessibility
+
