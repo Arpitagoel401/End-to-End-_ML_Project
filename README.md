@@ -1,6 +1,6 @@
 # Diabetes Prediction Project
 ## Overview
-This project is an end-to-end machine learning solution for predicting diabetes. It includes data exploration and analysis (EDA), model building, standard scaling, handling imbalanced data, model serialization, and deploying a Flask web application.
+This project is an end-to-end machine learning solution for predicting diabetes. It includes data exploration and analysis (EDA), model building, standard scaling, handling imbalanced data and deploying a Flask web application.
 
 ## Table of Contents
 #### Introduction
